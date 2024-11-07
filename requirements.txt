@@ -1,0 +1,17 @@
+streamlit
+guardrails-ai
+openai
+langchain_community
+langchain_experimental
+langchain-upstage
+sentence-transformers
+langchainhub
+langchain-chroma
+langchain
+matplotlib
+python-dotenv
+tavily-python
+ragas
+faiss-cpu
+tokenizers
+getpass4
